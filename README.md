@@ -1,7 +1,7 @@
-# Movie Recommendation System
+Submitted by: Samraj Gupta 19BEC1026 Hardik Agarwal 19BLC1004 Dheeraj Sharma 19BLC1053
 
-Code for a ShinyApps application of a movie recommendation system. 
+Under the Guidance: Dr. Gobinath N School of Mechanical Engineering (SMEC) VIT University, Chennai
 
-The ShinyApps application is accessible here: https://jeknov.shinyapps.io/movieRec
+Code for a ShinyApps application of a movie recommendation system.
 
-More detailed description of how the application was developed is here: http://rpubs.com/jeknov/movieRec
+The ShinyApps application is accessible here: http://bit.ly/mrseeda
